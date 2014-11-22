@@ -9,7 +9,16 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+      BOOL pageControlBeingUsed;
+}
+@property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
 
+@property (retain, nonatomic) IBOutlet UIView *ContainerView;
+
+@property (retain, nonatomic) IBOutlet UIImageView *imageView;
+
+@property (retain, nonatomic) IBOutlet UITextView *textView;
 
 @end
 

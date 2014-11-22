@@ -14,6 +14,7 @@
 		048FD7C81A1F76A6000EFA03 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048FD7C71A1F76A6000EFA03 /* Images.xcassets */; };
 		048FD7CB1A1F76A6000EFA03 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 048FD7C91A1F76A6000EFA03 /* LaunchScreen.xib */; };
 		048FD7D71A1F76A6000EFA03 /* HorizontalScrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 048FD7D61A1F76A6000EFA03 /* HorizontalScrollViewTests.m */; };
+		048FD7E11A1F81B0000EFA03 /* landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 048FD7E01A1F81B0000EFA03 /* landscape.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		048FD7D01A1F76A6000EFA03 /* HorizontalScrollViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HorizontalScrollViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		048FD7D51A1F76A6000EFA03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		048FD7D61A1F76A6000EFA03 /* HorizontalScrollViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HorizontalScrollViewTests.m; sourceTree = "<group>"; };
+		048FD7E01A1F81B0000EFA03 /* landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = landscape.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				048FD7C11A1F76A6000EFA03 /* ViewController.h */,
 				048FD7C21A1F76A6000EFA03 /* ViewController.m */,
 				048FD7C41A1F76A6000EFA03 /* Main.storyboard */,
+				048FD7E01A1F81B0000EFA03 /* landscape.jpg */,
 				048FD7C71A1F76A6000EFA03 /* Images.xcassets */,
 				048FD7C91A1F76A6000EFA03 /* LaunchScreen.xib */,
 				048FD7BA1A1F76A6000EFA03 /* Supporting Files */,
@@ -202,6 +205,7 @@
 				048FD7C61A1F76A6000EFA03 /* Main.storyboard in Resources */,
 				048FD7CB1A1F76A6000EFA03 /* LaunchScreen.xib in Resources */,
 				048FD7C81A1F76A6000EFA03 /* Images.xcassets in Resources */,
+				048FD7E11A1F81B0000EFA03 /* landscape.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
